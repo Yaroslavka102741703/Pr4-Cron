@@ -68,8 +68,7 @@ exit 0
  └───────────────────────────── Минута (0-59) → каждые 5 минут
 ```
 
-*(Скриншот 2: Вывод команды crontab -l)*
-<img width="636" height="516" alt="image" src="https://github.com/user-attachments/assets/82da46be-4416-4c5b-a9ba-836e1448e920" />
+*(Скриншот 2: Вывод команды crontab -e)*<img width="640" height="527" alt="image" src="https://github.com/user-attachments/assets/6ff71f67-ae57-4191-8160-454fc5318b24" />
 
 
 
