@@ -42,7 +42,8 @@ exit 0
 ```
 
 *(Скриншот 1: Содержимое скрипта send_request.sh)*
-<img width="1186" height="159" alt="image" src="https://github.com/user-attachments/assets/b7404587-c330-4aa1-a9fa-e6ae082015a9" />
+<img width="939" height="75" alt="image" src="https://github.com/user-attachments/assets/a5d1acc7-dd34-4373-bd21-7654365058e6" />
+
 
 
 
